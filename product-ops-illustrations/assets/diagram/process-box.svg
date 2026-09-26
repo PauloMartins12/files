@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" fill="none" role="img" aria-label="process box">
+<!-- Original editable rough-ink diagram primitive; transparent canvas. -->
+<path d="M24 32 Q106 28 195 32 T376 32 L378 186 Q284 190 197 187 T24 187 Z" fill="#EAF7F5" stroke="#263238" stroke-width="4" stroke-linejoin="round"/>
+<path d="M28 36 Q117 34 204 35 T374 36 M27 183 Q111 185 199 183 T375 183" stroke="#263238" stroke-width="1.4" opacity=".5"/>
+<path d="M38 79 L64 56 M38 105 L90 55 M38 131 L115 54 M49 170 L147 52" stroke="#168B87" stroke-width="1.4" opacity=".28"/>
+</svg>

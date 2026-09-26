@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="260" viewBox="0 0 300 260" fill="none" role="img" aria-label="decision diamond">
+<!-- Original editable rough-ink diagram primitive; transparent canvas. -->
+<path d="M151 19 Q217 76 280 129 Q217 185 151 240 Q84 182 19 129 Q86 76 151 19 Z" fill="#FFF6E3" stroke="#263238" stroke-width="4" stroke-linejoin="round"/>
+<path d="M151 24 L274 128 L151 235 L24 130 Z" stroke="#263238" stroke-width="1.5" opacity=".45"/>
+<path d="M43 131 L148 43 M72 153 L166 63" stroke="#E5A52A" stroke-width="1.6" opacity=".35"/>
+</svg>
